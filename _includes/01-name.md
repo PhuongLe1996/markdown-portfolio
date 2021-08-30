@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# information
+## Le Thi Thu Phuong
+FX11050
